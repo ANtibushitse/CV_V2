@@ -1,0 +1,80 @@
+
+html, body {
+}
+body{
+	width: 100%;
+	height: 0 auto; 
+	margin: 0 auto; 
+	background-color:#f4f7f7;
+    line-height: 1,46; 
+}
+ul.topnav  li{
+    list-style-type: none;
+    overflow: hidden;
+    background-color: #333;
+}
+ul.topnav li a {
+    display: inline-block;
+    color: #f2f2f2;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    transition: 0.3s;
+    font-size: 17px;
+}
+
+}
+
+h1 {	
+	text-align: center; 
+	color: #8F2D56; 
+	font-size: 42px;
+	line-height: 1,3; 
+}
+h2, h3,h4 {
+	text-align: center; 
+	line-height: 1,3; 
+	color: 	#218380;
+	font-size: 18px
+}
+
+	
+}
+.profile {
+	border: 1px #2EC4B6 solid; 	
+	display: block; 
+	align-content: center;
+	text-align: center; 
+}	
+.profile li{
+	list-style: none;
+}
+.infoContact {
+	
+	text-align: center;
+	margin-top: 50px; 
+	margin-bottom: 50px; 
+	
+}
+
+.infoContact li {
+	list-style: none; 
+}
+.experience  li {
+	list-style: none; 
+	text-align: justify-all; 
+} 
+.competences li{ 
+	
+list-style: none;
+	
+}
+.experience{
+	width: 0 auto; 
+	lis
+}
+
+.formation li {
+	list-style: none, 
+	
+}
