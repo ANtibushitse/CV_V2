@@ -23,7 +23,7 @@ ul.topnav li a {
     font-size: 17px;
 }
 
-}
+
 
 h1 {	
 	text-align: center; 
@@ -39,7 +39,7 @@ h2, h3,h4 {
 }
 
 	
-}
+
 .profile {
 	border: 1px #2EC4B6 solid; 	
 	display: block; 
@@ -70,11 +70,9 @@ list-style: none;
 	
 }
 .experience{
-	width: 0 auto; 
-	lis
+	width: 0 auto;
 }
 
 .formation li {
-	list-style: none, 
-	
+	list-style: none, 	
 }
